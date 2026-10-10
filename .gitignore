@@ -1,0 +1,13 @@
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# File editor
+.vscode/
+.idea/
+
+# File dependencies (jika nanti pakai npm)
+node_modules/
+
+# File environment (jangan pernah di-commit!)
+.env
