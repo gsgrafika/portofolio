@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "id": "sekolah-a",
+      "nama": "Template Sekolah A",
+      "deskripsi": "Desain modern untuk SMA/SMK dengan halaman profil, berita, dan galeri.",
+      "tags": ["SMA", "SMK", "Modern"],
+      "status": "available",
+      "harga": "Rp 150.000"
+    },
+    {
+      "id": "sekolah-b",
+      "nama": "Template Sekolah B",
+      "deskripsi": "Desain minimalis untuk SD dengan fokus pada kemudahan navigasi.",
+      "tags": ["SD", "Minimalis"],
+      "status": "coming-soon",
+      "harga": "Rp 125.000"
+    },
+    {
+        "id": "sekolah-c",
+        "nama": "Template Sekolah C",
+        "deskripsi": "Desain elegan untuk SMP.",
+        "tags": ["SMP", "Elegan"],
+        "status": "available",
+        "harga": "Rp 175.000"
+    }
+  ]
+}
